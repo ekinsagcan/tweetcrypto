@@ -225,9 +225,9 @@ def main():
     Bot'u başlat
     """
     # API anahtarlarını buraya girin
-    TWITTER_BEARER_TOKEN = "your_twitter_bearer_token_here"
-    PUMPFUN_API_KEY = "your_pumpfun_api_key_here"
-    WALLET_PRIVATE_KEY = "your_wallet_private_key_here"
+    TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAAbM2wEAAAAAKIpWy9hKOgM2cpRAn%2FACh%2BTgGB4%3DiDxmWRIWREhKZnBGUkYE2k5p6dYB6j3aPbB1vjEciwYw57VDkx"
+    PUMPFUN_API_KEY = "6dbpmn1gdnh6jrba6d8pumbm9xx6pau9exqmee2q6546whvkddv7adu7atx54rb2emu7ay27c9a72n9fcd0kcxa4f917jm3kd566ajk99gv36g9hdxt4mkkt91n7auaj6da4rnj9ewyku94w4rh1h69gk8xb18tqm6yjh846dm2pv1re9bnjxbgc5wprcvqa55q4uhgb5kkuf8"
+    WALLET_PRIVATE_KEY = "33k1u28gTTXYrnHKreHQoZ8LKkgUqEEAAEYiXiHpXtTTPM5MK2UPnf3Yk5w8Qr3iMmPMSYeC7v88GEB6rSBSWoXH"
     
     # Bot'u başlat
     bot = ElonPumpBot(
